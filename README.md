@@ -1,3 +1,7 @@
+# DOT NOT USE!
+This repository was only to address an issue which has now been fixed in:
+https://github.com/SiqiLu/dotnet-bump-version/issues/10
+
 # dotnet-bump-version
 
 A GitHub Action to easily bump .NET Core project version files(.csproj).
